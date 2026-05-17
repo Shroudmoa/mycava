@@ -4,5 +4,5 @@ you have to leave shaders and config file under C:\users\yourusername\ .config\c
 # commands to install
 winget install karlstav.cava
 
-# after leaving the confif file and shaders under .config\cava
+# after leaving the config file and shaders under .config\cava
 just write "cava" in a new terminal
